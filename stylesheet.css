@@ -87,13 +87,14 @@
 }
 
 .socialLinks {
-
+	width: 10 px;
+	height: 10 px;
 	font-size: 1px;
 	background-color:white;
-  padding: 10px;
-  position: relative;
-  text-align: center;
-  border-radius: 3 rem;
+  	padding: 10px;
+  	position: relative;
+  	text-align: center;
+  	border-radius: 3 rem;
 	cursor: pointer;
 
 }
