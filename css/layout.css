@@ -208,7 +208,7 @@ ul#nav li.current a { color: #F06000; }
 #about .profile-pic {
    position: relative;
    width: 120px;
-   height: 120px;
+   height: 130px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -345,15 +345,15 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
-.flask {
+.data_structures {
   	width: 80%;
-  	-moz-animation: flask 2s ease;
-  	-webkit-animation: flask 2s ease;
+  	-moz-animation: data_structures 2s ease;
+  	-webkit-animation: data_structures 2s ease;
 }
-.selenium {
+.c_cplus {
   	width: 75%;
-  	-moz-animation: selenium 2s ease;
-  	-webkit-animation: selenium 2s ease;
+  	-moz-animation: c_cplus 2s ease;
+  	-webkit-animation: c_cplus 2s ease;
 }
 
 @-moz-keyframes photoshop {
