@@ -543,16 +543,20 @@ ul#nav li.current a { color: #F06000; }
 .popup-modal .link-box {
    padding: 18px 36px;
    background: #111;
-   /* text-align: left; */
-   width: 20%;text-align:center;
-   justify-content: space-evenly;
+   display: flex;
+   justify-content: space-between;
+   
+   /* text-align: justify; */
+   /* width: 20%;text-align:center;
+   justify-content: space-evenly; */
 }
 .popup-modal .link-box a {
    color: #fff;
 	font: 11px/21px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
+   /* width: 20%;text-align:center; */
    letter-spacing: 3px;
-   justify-content: space-evenly;
+   /* justify-content: space-evenly; */
    cursor: pointer;
 }
 .popup-modal a:hover {	color: #00CCCC; }
