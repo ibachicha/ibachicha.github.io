@@ -544,6 +544,7 @@ ul#nav li.current a { color: #F06000; }
    padding: 18px 36px;
    background: #111;
    text-align: left;
+   justify-content: space-evenly;
 }
 .popup-modal .link-box a {
    color: #fff;
