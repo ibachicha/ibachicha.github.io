@@ -35,8 +35,8 @@ header {
    width: 100%;
    /* background: #161415 url(../images/SpaceBackgroundcopy.jpg) no-repeat top center; */
    background: #161415 url(../images/palmtreebackground.jpg) no-repeat top center;
-   background-size: contain !important;
-	-webkit-background-size: cover !important;
+   background-size: cover !important;
+	-webkit-background-size:  cover !important;
    text-align: center;
    overflow: hidden;
 }
