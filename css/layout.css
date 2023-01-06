@@ -34,7 +34,8 @@ header {
    min-height: 500px;
    width: 100%;
    /* background: #161415 url(../images/SpaceBackgroundcopy.jpg) no-repeat top center; */
-   background: #161415 url(../images/palmtreebackground.jpg) no-repeat top center;
+   /* background: #161415 url(../images/palmtreebackground.jpg) no-repeat top center; */
+   background: #161415 url(../images/palm_leafs_background.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size:  cover !important;
    text-align: center;
@@ -209,7 +210,7 @@ ul#nav li.current a { color: #F06000; }
 #about .profile-pic {
    position: relative;
    width: 170px;
-   height: 200px;
+   height: 170px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
